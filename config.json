@@ -1,0 +1,41 @@
+{
+  "name": "Caio Alves",
+  "job": "Front-end Developer",
+  "github": "caioalvesp",
+  "playlists": {
+    "Música": [
+      {
+        "title": "Metallica: Moth Into Flame (Arlington, TX - August 20, 2023)",
+        "url": "https://www.youtube.com/watch?v=isrRGy9YaXM",
+        "thumb": "https://i.ytimg.com/vi/isrRGy9YaXM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyPrzImT-HEOZTb4U-sndJ0XcIFA"
+      },
+      {
+        "title": "Metallica: Moth Into Flame (Arlington, TX - August 20, 2023)",
+        "url": "https://www.youtube.com/watch?v=isrRGy9YaXM",
+        "thumb": "https://i.ytimg.com/vi/isrRGy9YaXM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyPrzImT-HEOZTb4U-sndJ0XcIFA"
+      },
+      {
+        "title": "Metallica: Moth Into Flame (Arlington, TX - August 20, 2023)",
+        "url": "https://www.youtube.com/watch?v=isrRGy9YaXM",
+        "thumb": "https://i.ytimg.com/vi/isrRGy9YaXM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyPrzImT-HEOZTb4U-sndJ0XcIFA"
+      }
+    ],
+    "Frontend": [
+      {
+        "title": "PROJETOS PARA PRATICAR HTML CSS E JAVASCRIPT",
+        "url": "https://www.youtube.com/watch?v=t-q6GtD9bEc",
+        "thumb": "https://i.ytimg.com/vi/t-q6GtD9bEc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7BE6qq4S_5RtHX_cjb-nlgFoIRg"
+      },
+      {
+        "title": "PROJETOS PARA PRATICAR HTML CSS E JAVASCRIPT",
+        "url": "https://www.youtube.com/watch?v=t-q6GtD9bEc",
+        "thumb": "https://i.ytimg.com/vi/t-q6GtD9bEc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7BE6qq4S_5RtHX_cjb-nlgFoIRg"
+      },
+      {
+        "title": "PROJETOS PARA PRATICAR HTML CSS E JAVASCRIPT",
+        "url": "https://www.youtube.com/watch?v=t-q6GtD9bEc",
+        "thumb": "https://i.ytimg.com/vi/t-q6GtD9bEc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7BE6qq4S_5RtHX_cjb-nlgFoIRg"
+      }
+    ]
+  }
+}
